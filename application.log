@@ -1,0 +1,42 @@
+2020-12-09 10:13:48,875  INFO [main] LoginPageTest:27 - ****************************** Starting test cases execution  *****************************************
+2020-12-09 10:13:58,231  INFO [main] LoginPageTest:30 - launching chrome broswer
+2020-12-09 10:13:58,271  INFO [main] LoginPageTest:32 - entering application URL
+2020-12-09 10:13:58,272  WARN [main] LoginPageTest:33 - Hey this just a warning message
+2020-12-09 10:13:58,273 FATAL [main] LoginPageTest:34 - hey this is just fatal error message
+2020-12-09 10:13:58,273 DEBUG [main] LoginPageTest:35 - this is debug message
+2020-12-09 10:13:58,296  INFO [main] LoginPageTest:41 - ****************************** starting test case *****************************************
+2020-12-09 10:13:58,297  INFO [main] LoginPageTest:42 - ****************************** freeCrmTitleTest *****************************************
+2020-12-09 10:14:00,079  INFO [main] LoginPageTest:44 - login page title is--->#1 Free CRM customer relationship management software cloud
+2020-12-09 10:14:00,083  INFO [main] LoginPageTest:46 - ****************************** ending test case *****************************************
+2020-12-09 10:14:00,084  INFO [main] LoginPageTest:47 - ****************************** freeCrmTitleTest *****************************************
+2020-12-09 10:14:01,127  INFO [main] LoginPageTest:27 - ****************************** Starting test cases execution  *****************************************
+2020-12-09 10:14:08,304  INFO [main] LoginPageTest:30 - launching chrome broswer
+2020-12-09 10:14:08,305  INFO [main] LoginPageTest:32 - entering application URL
+2020-12-09 10:14:08,306  WARN [main] LoginPageTest:33 - Hey this just a warning message
+2020-12-09 10:14:08,306 FATAL [main] LoginPageTest:34 - hey this is just fatal error message
+2020-12-09 10:14:08,307 DEBUG [main] LoginPageTest:35 - this is debug message
+2020-12-09 10:14:08,309  INFO [main] LoginPageTest:53 - ****************************** starting test case *****************************************
+2020-12-09 10:14:08,310  INFO [main] LoginPageTest:54 - ****************************** freemCRMLogoTest *****************************************
+2020-12-09 10:14:09,088  INFO [main] LoginPageTest:58 - ****************************** ending test case *****************************************
+2020-12-09 10:14:09,089  INFO [main] LoginPageTest:59 - ****************************** freemCRMLogoTest *****************************************
+2020-12-09 10:14:10,262  INFO [main] LoginPageTest:27 - ****************************** Starting test cases execution  *****************************************
+2020-12-09 10:14:17,633  INFO [main] LoginPageTest:30 - launching chrome broswer
+2020-12-09 10:14:17,634  INFO [main] LoginPageTest:32 - entering application URL
+2020-12-09 10:14:17,635  WARN [main] LoginPageTest:33 - Hey this just a warning message
+2020-12-09 10:14:17,635 FATAL [main] LoginPageTest:34 - hey this is just fatal error message
+2020-12-09 10:14:17,635 DEBUG [main] LoginPageTest:35 - this is debug message
+2020-12-09 10:14:19,374  INFO [main] LoginPageTest:27 - ****************************** Starting test cases execution  *****************************************
+2020-12-09 10:14:26,505  INFO [main] LoginPageTest:30 - launching chrome broswer
+2020-12-09 10:14:26,507  INFO [main] LoginPageTest:32 - entering application URL
+2020-12-09 10:14:26,507  WARN [main] LoginPageTest:33 - Hey this just a warning message
+2020-12-09 10:14:26,508 FATAL [main] LoginPageTest:34 - hey this is just fatal error message
+2020-12-09 10:14:26,508 DEBUG [main] LoginPageTest:35 - this is debug message
+2020-12-09 10:14:26,510  INFO [main] LoginPageTest:41 - ****************************** starting test case *****************************************
+2020-12-09 10:14:26,510  INFO [main] LoginPageTest:42 - ****************************** freeCrmTitleTest *****************************************
+2020-12-09 10:14:26,549  INFO [main] LoginPageTest:44 - login page title is--->#1 Free CRM customer relationship management software cloud
+2020-12-09 10:14:26,549  INFO [main] LoginPageTest:46 - ****************************** ending test case *****************************************
+2020-12-09 10:14:26,550  INFO [main] LoginPageTest:47 - ****************************** freeCrmTitleTest *****************************************
+2020-12-09 10:14:26,550  INFO [main] LoginPageTest:53 - ****************************** starting test case *****************************************
+2020-12-09 10:14:26,550  INFO [main] LoginPageTest:54 - ****************************** freemCRMLogoTest *****************************************
+2020-12-09 10:14:26,749  INFO [main] LoginPageTest:58 - ****************************** ending test case *****************************************
+2020-12-09 10:14:26,750  INFO [main] LoginPageTest:59 - ****************************** freemCRMLogoTest *****************************************
